@@ -1,0 +1,58 @@
+body{
+    background-image: url(red-dead-redemption-2-4k-red-c7jnzj99cq4dd6ef.jpg);
+    background-size: cover;
+}
+.texth1{
+    color: rgb(0, 89, 255);
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
+}
+.texth2{
+    color: rgb(0, 255, 13);
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.texth3{
+    color: rgb(251, 255, 0);
+    text-align: right;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+.pak-list {
+    list-style-type: upper-roman;
+    padding-left: 30px;
+}
+.item-1 {
+    color: #FF5733;
+}
+
+.item-2 {
+    color: #33FF57;
+}
+
+.item-3 {
+    color: #3357FF;
+}
+.pak-list {
+    list-style: none;
+    padding-left: 30px;
+}
+
+.pak-list li {
+    margin: 10px 0;
+}
+
+.circle {
+    list-style-type: circle;
+}
+
+.square {
+    list-style-type: square;
+}
+
+.triangle {
+    list-style-type: disc;
+}
